@@ -1,0 +1,11 @@
+{
+  "/about/page": "/about",
+  "/_not-found/page": "/_not-found",
+  "/categories/page": "/categories",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/posts/page": "/posts",
+  "/write/page": "/write",
+  "/categories/[category]/page": "/categories/[category]",
+  "/posts/[id]/page": "/posts/[id]"
+}
