@@ -11,6 +11,11 @@ export async function generateStaticParams() {
   ];
 }
 
-export default function CategoryPage({ params }: { params: { category: string } }) {
+// ✅ Define props manually
+type CategoryPageProps = {
+  params: { category: string };
+};
+
+export default function CategoryPage({ params }: CategoryPageProps) {
   return <CategoryDetail categoryName={params.category} />;
 }

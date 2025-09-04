@@ -1,4 +1,4 @@
-// File: C:\Users\SHARJEEL\Downloads\f9482390-8765-4312-ad9d-289dfc6bed02_2\app\posts\page.tsx
+// File: C:\Users\System Inn\Desktop\bari_blog_app\app\posts\page.tsx
 import * as entry from '../../../../app/posts/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
